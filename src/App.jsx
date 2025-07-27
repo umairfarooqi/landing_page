@@ -15,7 +15,6 @@ function App() {
       <HeroSection />
       <SubcategoryNav />
       <HowItWorks />
-      {/* <TrustedBy /> */}
       <CallToAction />
       <Footer />
     </div>
