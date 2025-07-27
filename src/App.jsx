@@ -6,6 +6,7 @@ import HowItWorks from './Components/Home/HowItWorks'
 import TrustedBy from './Components/Home/TrustedBy'
 import CallToAction from './Components/Home/CallToAction'
 import Footer from './Components/Home/Footer'
+import WhatsAppWidget from './Components/Home/WhatsAppWidget'
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
       <HowItWorks />
       <CallToAction />
       <Footer />
+      <WhatsAppWidget />
     </div>
   )
 }
