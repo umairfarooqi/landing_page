@@ -7,7 +7,7 @@ const Navbar = () => {
         <div className="bg-black text-white rounded-2xl px-6 py-4 flex items-center justify-between">
           {/* Logo / Brand */}
           <div className="text-xl font-bold">
-            digitec
+            Umair Farooqi.
           </div>
 
           {/* Navigation Links */}

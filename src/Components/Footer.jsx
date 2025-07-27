@@ -8,7 +8,7 @@ const Footer = () => {
           <div className="grid grid-cols-1 md:grid-cols-4 gap-10">
             {/* Logo + Description */}
             <div className="md:col-span-1">
-              <h2 className="text-2xl font-bold mb-4">digitec</h2>
+              <h2 className="text-2xl font-bold mb-4">Umair Farooqi.</h2>
               <p className="text-sm text-gray-400 mb-4">
                 We provide professional services in development, design, and digital marketing to help your business grow.
               </p>
@@ -42,15 +42,15 @@ const Footer = () => {
               <h3 className="font-semibold mb-3">Contact</h3>
               <ul className="space-y-2 text-sm text-gray-300">
                 <li>Lahore, Pakistan</li>
-                <li>info@digitec.marketing</li>
-                <li>+92 (311) 444-3447</li>
+                <li>info@umair.farooqi</li>
+                <li>+92 (301) 909-3721</li>
               </ul>
             </div>
           </div>
 
           {/* Bottom Bar */}
           <div className="border-t border-gray-700 mt-10 pt-6 flex flex-col md:flex-row justify-between items-center text-xs text-gray-500">
-            <p>&copy; 2025 Digitec. All rights reserved.</p>
+            <p>&copy; 2025 Umair Farooqi. All rights reserved.</p>
             <div className="space-x-4 mt-4 md:mt-0">
               <a href="#" className="hover:underline">Privacy Policy</a>
               <a href="#" className="hover:underline">Terms of Service</a>
