@@ -1,11 +1,11 @@
 import React from 'react'
-import Navbar from './Components/Navbar'
-import HeroSection from './Components/HeroSection'
-import SubcategoryNav from './Components/SubcategoryNav'
-import HowItWorks from './Components/HowItWorks'
-import TrustedBy from './Components/TrustedBy'
-import CallToAction from './Components/CallToAction'
-import Footer from './Components/Footer'
+import Navbar from './Components/Home/Navbar'
+import HeroSection from './Components/Home/HeroSection'
+import SubcategoryNav from './Components/Home/SubcategoryNav'
+import HowItWorks from './Components/Home/HowItWorks'
+import TrustedBy from './Components/Home/TrustedBy'
+import CallToAction from './Components/Home/CallToAction'
+import Footer from './Components/Home/Footer'
 
 
 function App() {
